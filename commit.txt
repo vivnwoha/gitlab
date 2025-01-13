@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Mon Jan 13 04:44:46 UTC 2025
 add new line to main
+=======
+never give us
+rebasing
+>>>>>>> 22bfa93 (2nd commit)

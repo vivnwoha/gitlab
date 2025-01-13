@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
  hello oga how you dey
 add new line to main
+=======
+I am excelling in devops
+>>>>>>> 22bfa93 (2nd commit)
