@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 add new line to main
-=======
 rebasing
->>>>>>> 22bfa93 (2nd commit)
+new commit for merge
