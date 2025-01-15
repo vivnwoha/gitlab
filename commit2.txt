@@ -1,3 +1,4 @@
 add new line to main
 rebasing
 new commit for merge
+merge squash modification
